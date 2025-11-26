@@ -126,7 +126,7 @@ const Index = () => {
                   <div className="text-sm text-muted-foreground">Членов клуба</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-primary">15</div>
+                  <div className="text-3xl font-bold text-primary">5</div>
                   <div className="text-sm text-muted-foreground">Тренеров</div>
                 </div>
                 <div>
